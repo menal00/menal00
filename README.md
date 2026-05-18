@@ -1,14 +1,14 @@
-# Hi, I'm Menal 👋
+# Hi, I'm Menal 
 
 I'm an Information Technology student at York University who enjoys building practical and user-focused applications. I’m passionate about software development, UI/UX design, and learning through hands-on projects and collaboration.
 
 ## About Me
 
-- 🎓 Information Technology student at York University
-- 💻 Interested in software development and UI/UX
-- 🌱 Currently learning and building projects with Java, MATLAB, HTML/CSS, and JavaScript
-- 🤝 Enjoy working on collaborative and meaningful projects
-- 📍 Based in Ontario, Canada
+-  Information Technology student at York University
+-  Interested in software development and UI/UX
+-  Currently learning and building projects with Java, MATLAB, HTML/CSS, and JavaScript
+-  Enjoy working on collaborative and meaningful projects
+-  Based in Ontario, Canada
 
 ## Technologies & Tools
 - Java
