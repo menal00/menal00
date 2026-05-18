@@ -29,12 +29,15 @@ A task management application inspired by Kanban boards with drag-and-drop funct
 ###  Java Shape Drawing Tool
 A Java Swing application that allows users to draw, save, and load shapes with customizable colors and sizes.
 
+### Evaluating Supervised Machine Learning Models for Heart Disease Prediction
+A machine learning project focused on evaluating supervised learning models for predicting heart disease using medical and patient health data.
+
 
 ## Currently Working On
 
 - Expanding my software development skills
 - Building responsive and user-friendly applications
-- Exploring UI/UX and mobile app development
+
 
 ## Connect With Me
 
