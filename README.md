@@ -36,7 +36,7 @@ A machine learning project focused on evaluating supervised learning models for 
 ## Currently Working On
 
  Building **LYVYN** 
- A collaborative team project focused on creating a modern and user-friendly application while gaining hands-on experience with real-world software development and teamwork.
+ a collaborative team project focused on creating a modern and user-friendly application while gaining hands-on experience with real-world software development and teamwork.
 
 
 ## Connect With Me
